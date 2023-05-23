@@ -2,7 +2,7 @@
 
 This GitHub repository contains the code and resources for a project on Email Spam Classification using the Spam Assassin dataset.
 
-<h3>Description<h/3>
+<h3>Description</h3>
 
 This GitHub repository hosts the code and resources for a project focused on Email Spam Classification using the Spam Assisn dataset. The dataset, available on Kaggle at the following link: Spam Assisn Email Dataset, consists of 6046 e-mails, including 4150 ham (non-spam) and 1896 spam messages. Each e-mail in the dataset is labeled accordingly.
 
